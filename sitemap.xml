@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wannadreamadream.github.io/2022/11/22/2022-11-22/</loc>
+    
+    <lastmod>2022-11-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wannadreamadream.github.io/2022/11/19/2022-11-16/</loc>
     
     <lastmod>2022-11-21</lastmod>
@@ -22,7 +31,7 @@
 
   <url>
     <loc>https://wannadreamadream.github.io/</loc>
-    <lastmod>2022-11-21</lastmod>
+    <lastmod>2022-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
